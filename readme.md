@@ -1,1 +1,1 @@
-## lss - Log and Show Stats
+## lgstt - LoG and get STaTisics
